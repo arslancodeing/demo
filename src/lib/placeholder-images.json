@@ -1,0 +1,232 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A beautifully lit modern living room with a comfortable sofa and elegant decor.",
+      "imageUrl": "https://images.unsplash.com/photo-1631679706909-1844bbd07221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsaXZpbmclMjByb29tfGVufDB8fHx8MTc2MzI2MjM1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "living room"
+    },
+    {
+      "id": "product-sofa-1",
+      "description": "Front view of the Kensington Chesterfield Sofa.",
+      "imageUrl": "https://images.unsplash.com/photo-1550581190-9c1c48d21d6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzb2ZhfGVufDB8fHx8MTc2MzI4NjczM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sofa"
+    },
+    {
+      "id": "product-sofa-2",
+      "description": "Side view of the Kensington Chesterfield Sofa.",
+      "imageUrl": "https://images.unsplash.com/photo-1760389528198-8963e565c017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzb2ZhJTIwZGV0YWlsfGVufDB8fHx8MTc2MzI5MzU3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sofa detail"
+    },
+    {
+      "id": "product-sofa-3",
+      "description": "Close-up of the Kensington Chesterfield Sofa's fabric.",
+      "imageUrl": "https://images.unsplash.com/photo-1695131022208-78bd3133871f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmYWJyaWMlMjB0ZXh0dXJlfGVufDB8fHx8MTc2MzE4MDk2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fabric texture"
+    },
+    {
+      "id": "product-table-1",
+      "description": "The Cotswold Farmhouse Dining Table.",
+      "imageUrl": "https://images.unsplash.com/photo-1505409628601-edc9af17fda6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkaW5pbmclMjB0YWJsZXxlbnwwfHx8fDE3NjMyMDUyOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dining table"
+    },
+    {
+      "id": "product-table-2",
+      "description": "Overhead view of the Cotswold Farmhouse Dining Table.",
+      "imageUrl": "https://images.unsplash.com/photo-1484553255294-313b931acd27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGFibGUlMjB0b3B8ZW58MHx8fHwxNzYzMjkzMDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "table top"
+    },
+    {
+      "id": "product-chair-1",
+      "description": "The Windsor Accent Chair.",
+      "imageUrl": "https://images.unsplash.com/photo-1745240333859-f0128bcb1e5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhY2NlbnQlMjBjaGFpcnxlbnwwfHx8fDE3NjMyMDIzODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "accent chair"
+    },
+    {
+      "id": "product-chair-2",
+      "description": "Side profile of the Windsor Accent Chair.",
+      "imageUrl": "https://images.unsplash.com/photo-1666706042276-cb4c4e9b4a54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hhaXIlMjBzaWRlfGVufDB8fHx8MTc2MzI5MzU3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chair side"
+    },
+    {
+      "id": "product-bed-1",
+      "description": "The Mayfair Upholstered Bed Frame.",
+      "imageUrl": "https://images.unsplash.com/photo-1690957530220-98bacb3c1163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiZWQlMjBmcmFtZXxlbnwwfHx8fDE3NjMyNjE4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bed frame"
+    },
+    {
+      "id": "product-bed-2",
+      "description": "Headboard detail of the Mayfair Upholstered Bed Frame.",
+      "imageUrl": "https://images.unsplash.com/photo-1567111231229-8765962a4730?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFkYm9hcmQlMjBkZXRhaWx8ZW58MHx8fHwxNzYzMjkzNTcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headboard detail"
+    },
+    {
+      "id": "product-cabinet-1",
+      "description": "The Shoreditch Industrial Sideboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1567225477277-c8162eb4991d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2lkZWJvYXJkfGVufDB8fHx8MTc2MzI5MzU3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sideboard"
+    },
+    {
+      "id": "product-cabinet-2",
+      "description": "The Shoreditch Industrial Sideboard with doors open.",
+      "imageUrl": "https://images.unsplash.com/photo-1762811003338-aef30274513b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYWJpbmV0JTIwb3BlbnxlbnwwfHx8fDE3NjMyOTM1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cabinet open"
+    },
+    {
+      "id": "product-lamp-1",
+      "description": "The Brighton Floor Lamp.",
+      "imageUrl": "https://images.unsplash.com/photo-1566386429501-fe1523f35f40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Zmxvb3IlMjBsYW1wfGVufDB8fHx8MTc2MzIyMTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "floor lamp"
+    },
+    {
+      "id": "bundle-living-room",
+      "description": "A stylish living room featuring a comfortable sofa and ambient lighting.",
+      "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3p5JTIwbGl2aW5nJTIwcm9vbXxlbnwwfHx8fDE3NzE0NzcyNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cozy living room"
+    },
+    {
+      "id": "bundle-bedroom",
+      "description": "A serene bedroom with an elegant bed and matching furniture.",
+      "imageUrl": "https://images.unsplash.com/photo-1540518614846-7eded433c457?ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiZWRyb29tJTIwZnVybml0dXJlfGVufDB8fHx8fDE3NzE0NzcyNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bedroom furniture"
+    },
+    {
+      "id": "product-bookcase-1",
+      "description": "The Edinburgh Tall Bookcase.",
+      "imageUrl": "https://images.unsplash.com/photo-1762732526878-3dd89d99c904?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0YWxsJTIwYm9va2Nhc2V8ZW58MHx8fHwxNzYzMjk2MDM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tall bookcase"
+    },
+    {
+      "id": "product-desk-1",
+      "description": "The Cambridge Writing Desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1589578641895-56f5e660549f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3cml0aW5nJTIwZGVza3xlbnwwfHx8fDE3NjMyNzYzMTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "writing desk"
+    },
+    {
+      "id": "product-armchair-1",
+      "description": "The Bath Velvet Armchair.",
+      "imageUrl": "https://images.unsplash.com/photo-1758855284310-ba961fb5fa2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2ZWx2ZXQlMjBhcm1jaGFpcnxlbnwwfHx8fDE3NjMyNjA1ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "velvet armchair"
+    },
+    {
+      "id": "product-coffee-table-1",
+      "description": "The York Round Coffee Table.",
+      "imageUrl": "https://images.unsplash.com/photo-1581641363874-158d26798a62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb2ZmZWUlMjB0YWJsZXxlbnwwfHx8fDE3NjMyNzQ0NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee table"
+    },
+    {
+      "id": "product-loveseat-1",
+      "description": "The Notting Hill Loveseat.",
+      "imageUrl": "https://images.unsplash.com/photo-1579888028917-47462bb03ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsb3Zlc2VhdCUyMHNvZmF8ZW58MHx8fHwxNzYzMjk2MDM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "loveseat sofa"
+    },
+    {
+      "id": "product-ottoman-1",
+      "description": "The Greenwich Storage Ottoman.",
+      "imageUrl": "https://images.unsplash.com/photo-1762280237536-90b449615e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdG9yYWdlJTIwb3R0b21hbnxlbnwwfHx8fDE3NjMyOTYwMzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "storage ottoman"
+    },
+    {
+      "id": "product-console-table-1",
+      "description": "The Chelsea Console Table.",
+      "imageUrl": "https://images.unsplash.com/photo-1678057769212-1611d6fb3f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25zb2xlJTIwdGFibGV8ZW58MHx8fHwxNzYzMjk2MDM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "console table"
+    },
+    {
+      "id": "product-dining-chair-1",
+      "description": "The Stratford Dining Chair.",
+      "imageUrl": "https://images.unsplash.com/photo-1696220248631-7b9816434b49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkaW5pbmclMjBjaGFpcnxlbnwwfHx8fDE3NjMyNjg4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dining chair"
+    },
+    {
+      "id": "product-floor-mirror-1",
+      "description": "The Richmond Floor Mirror.",
+      "imageUrl": "https://images.unsplash.com/photo-1706629506571-a6d86798916b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmbG9vciUyMG1pcnJvcnxlbnwwfHx8fDE3NjMyOTYwMzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "floor mirror"
+    },
+    {
+      "id": "product-bar-stool-1",
+      "description": "The Camden Bar Stool.",
+      "imageUrl": "https://images.unsplash.com/photo-1639690316629-4e851ff32423?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYXIlMjBzdG9vbHxlbnwwfHx8fDE3NjMyOTYwMzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bar stool"
+    },
+    {
+      "id": "product-chest-of-drawers-1",
+      "description": "The Cotswold Chest of Drawers.",
+      "imageUrl": "https://images.unsplash.com/photo-1621244320420-a1e11ca0124f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaGVzdCUyMGRyYXdlcnN8ZW58MHx8fHwxNzYzMjk2MDM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chest drawers"
+    },
+    {
+      "id": "product-tv-stand-1",
+      "description": "The Manchester TV Stand.",
+      "imageUrl": "https://images.unsplash.com/photo-1696513338863-e3cf828d237d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0diUyMHN0YW5kfGVufDB8fHx8MTc2MzI5NjAzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tv stand"
+    },
+    {
+      "id": "product-pendant-light-1",
+      "description": "The Soho Pendant Light.",
+      "imageUrl": "https://images.unsplash.com/photo-1669994536947-4e3bbc7eca6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZW5kYW50JTIwbGlnaHR8ZW58MHx8fHwxNzYzMjgwNDA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pendant light"
+    },
+    {
+      "id": "product-bedside-table-1",
+      "description": "The Oxford Bedside Table.",
+      "imageUrl": "https://images.unsplash.com/photo-1583329550487-0fa300a4cd1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YmVkc2lkZSUyMHRhYmxlfGVufDB8fHx8MTc2MzI5NjAzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bedside table"
+    },
+    {
+      "id": "about-me-portrait",
+      "description": "A portrait of a craftsman in their workshop, surrounded by tools and wood.",
+      "imageUrl": "https://images.unsplash.com/photo-1555952494-efd681c7e3f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjcmFmdHNtYW58ZW58MHx8fHwxNzcxNTU0OTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "craftsman portrait"
+    },
+    {
+      "id": "inspiration-1",
+      "description": "Living Room with a view",
+      "imageUrl": "https://images.unsplash.com/photo-1642632013739-bd4457c630d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb2Rlcm4lMjBsaXZpbmd8ZW58MHx8fHwxNzYzMzEyNzMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern living"
+    },
+    {
+      "id": "inspiration-2",
+      "description": "Minimalist Bedroom",
+      "imageUrl": "https://images.unsplash.com/photo-1579586337278-35d9addb3c27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtaW5pbWFsaXN0JTIwYmVkcm9vbXxlbnwwfHx8fDE3NzE2NjI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist bedroom"
+    },
+    {
+      "id": "inspiration-3",
+      "description": "Cozy Reading Nook",
+      "imageUrl": "https://images.unsplash.com/photo-1568990416308-c998af4cf9ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZWFkaW5nJTIwbm9va3xlbnwwfHx8fDE3NjMzODAwNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "reading nook"
+    },
+    {
+      "id": "inspiration-4",
+      "description": "Dining Area Setup",
+      "imageUrl": "https://images.unsplash.com/photo-1617098591651-dd95032bc8bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGluaW5nJTIwcm9vbXxlbnwwfHx8fDE3NjMzMTk3MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dining room"
+    },
+    {
+      "id": "inspiration-5",
+      "description": "Modern Office Space",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-4b46a572b786?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtb2Rlcm4lMjBvZmZpY2V8ZW58MHx8fHwxNzYzMzQwNDU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern office"
+    },
+    {
+      "id": "blog-post-1",
+      "description": "A close-up of beautifully finished wood grain on a piece of furniture.",
+      "imageUrl": "https://images.unsplash.com/photo-1557367184-663fba4b8b91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8d29vZCUyMGZ1cm5pdHVyZXxlbnwwfHx8fDE3NjMzNzk0NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wood furniture"
+    },
+    {
+      "id": "blog-post-2",
+      "description": "A person sitting on a sofa, looking relaxed and comfortable.",
+      "imageUrl": "https://images.unsplash.com/photo-1519961655809-34fa156820ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c29mYXxlbnwwfHx8fDE3NjMzNzkzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "choosing sofa"
+    },
+    {
+      "id": "blog-post-3",
+      "description": "A stylishly decorated small apartment living room.",
+      "imageUrl": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzbWFsbCUyMHNwYWNlJTIwbGl2aW5nfGVufDB8fHx8MTc3MTcyODQ1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "small space living"
+    }
+  ]
+}
